@@ -1,12 +1,3 @@
 {
-  "version": 1,
-  "name": "browserlist",
-  "alias": [
-    "browserl.ist",
-    "browsersl.ist"
-  ],
-  "type": "npm",
-  "env": {
-    "GA_ID": "UA-543420-21"
-  }
+  "name": "browserlist"
 }
