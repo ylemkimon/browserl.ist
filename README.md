@@ -1,6 +1,6 @@
 # Browserl.ist [![Build Status](https://github.com/jonrohan/browserl.ist/workflows/Tests/badge.svg)](https://github.com/jonrohan/browserl.ist/actions?workflow=Tests)
 
-> A website that shows what browsers supported by a browserslist string
+> A website that shows what browsers supported by a browserslist strin
 
 This website uses [browserslist][] and [caniuse][] to display the compatible browsers for a [browserslist search query](https://github.com/ai/browserslist#queries).
 
